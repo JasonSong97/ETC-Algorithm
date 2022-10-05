@@ -1,4 +1,4 @@
-# 풀이
+# 모범답안
 n, k = map(int, input().split())
 result = 0
 
