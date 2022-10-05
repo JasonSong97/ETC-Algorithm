@@ -1,3 +1,4 @@
+# 모범답안
 n = int(input())
 count = 0
 
